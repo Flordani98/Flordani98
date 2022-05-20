@@ -1,0 +1,5 @@
+- 👋 Hola! Mi nombre es Florencia Mamani, empece a estudiar la tecnicatura en programacion este año (2022) en la UTN
+- Me gusta la musica(toco el piano) y la ciencia.
+- Me anote esta carrera de tecnologia para probar algo nuevo, fue un cambio radical para mi. 
+- Ademas cree este espacio para compartir algunos de los trabajos practicos de laboratorio, ojala que a alguien le sea de ayuda.
+- Un saludo! 💞️
