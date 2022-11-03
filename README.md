@@ -9,3 +9,4 @@
 - Lenguaje C: 
 - 1er Proyecto Cuatrimestral: Sistema de administración de Libros y lectores
 - 2do Protecto Cuatrimestral: Reproductor de Música, administracion de usuarios y canciones.
+- Implementacion de TDA arboles binarios y listas (nodos)
