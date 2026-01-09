@@ -4,7 +4,7 @@
   
 - Desde el comienzo de la carrera hasta ahora me enfoque en realizar cursos que complementen el estudio para conseguir mi primer trabajo en IT.
 - Finalicé con éxito el curso SPRING de JAVA en Codo a Codo
-- Estoy finalizando un curso de Angular para afianzar mas mis conocimientos adquiridos en el último cuatrimestre de la tecnicatura
+- Estoy realizando cursos de Angular y React para afianzar más mis conocimientos adquiridos en el último cuatrimestre de la tecnicatura
 - Estoy cursando presencialmente clases de inglés.
   
 - Lenguajes/herramientas/tecnologias manejadas:
